@@ -1,8 +1,9 @@
+import { Message } from "./components/Message/Message";
 
 
 function App() {
   return (
-    <div></div>
+    <Message text="Hello React"/>
   );
 }
 
